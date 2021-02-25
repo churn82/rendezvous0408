@@ -6,22 +6,36 @@ description: "Hello, World!"
 
 This is my very first post on my new blog!
 
-My new blog will be filled up with whole of fun IT stuff in the future.
+Recently, I moved to Seoul from Toronto and started to attend a bootcamp style class.
 
-As every journey starts with a first step, I must learn the fundamental skills.
+It feels little overwhelmed with all of the programming languages and the depth of them.
 
-Here's what I have learnt so far.
+Writing down what I learned on my blog will be a great method to study for myself and hopefully to others as well.
 
-> - Java, JSP, 
+Here's a list of languages I learned (+and will learn) from the class. 
+
+> - Java, JSP 
+> - Oracle
 > - HTML/CSS/JS
-> - 
-> - RDBMS
-> 5. git
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+> - Servlet/JSP
+> - git
+> + Spring, Spring Boot
 
-![Chinese Salty Egg](./salty_egg.jpg)
+And the languages I'd like to study alone after the course.
 
-You can also write code blocks here!
+> - MyBatis
+> - MySql
+> - JPA/Hibernate
+
+I realized I need to study at least one language by myself in order to learn another one. 
+
+So, the next posts will be about the basic principles about Java.
+
+
+
+
+
+
+
 
 
