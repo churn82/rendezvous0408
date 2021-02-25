@@ -14,7 +14,7 @@ Writing down what I learned on my blog will be a great method to study for mysel
 
 Here's a list of languages I learned (+and will learn) from the class. 
 
-> - Java, JSP 
+> - Java 
 > - Oracle
 > - HTML/CSS/JS
 > - Servlet/JSP
@@ -27,7 +27,7 @@ And the languages I'd like to study alone after the course.
 > - MySql
 > - JPA/Hibernate
 
-I realized I need to study at least one language by myself in order to learn another one. 
+I realized I need to fully understand at least one language in order to learn another one. 
 
 So, the next posts will be about the basic principles about Java.
 
