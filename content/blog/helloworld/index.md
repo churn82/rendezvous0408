@@ -6,7 +6,7 @@ description: "Hello, World!"
 
 This is my very first post on my new blog!
 
-Recently, I started studying web-programming in a class.
+Recently, I started studying web programming in a class.
 
 It feels little overwhelmed with all of the programming languages and the depth of them.
 
