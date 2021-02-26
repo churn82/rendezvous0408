@@ -11,3 +11,5 @@ egg yolk will be less rich."?
 ([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
 
 Yeah, I didn't either.
+
+Like I have no idea what does the duck eggs do with the blogging.
