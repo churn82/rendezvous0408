@@ -1,5 +1,5 @@
 ---
-title: Hello, World!
+title: Hello, world!
 date: "2021-02-23"
 description: "Hello, World!"
 ---
@@ -27,7 +27,7 @@ And the languages I'd like to study alone after the course.
 > - MySql
 > - JPA/Hibernate
 
-I realized I need to fully understand at least one language in order to learn another one. 
+I realized I need to fully understand at least one language to learn another one. 
 
 So, the next posts will be about the basic principles about Java.
 
