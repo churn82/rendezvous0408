@@ -35,7 +35,7 @@ const saltyDuckEgg = "chinese preserved food product"
 
 [View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
 
-This is a paragraph.
+This is a paragraph!
 
     This is a paragraph.
 
